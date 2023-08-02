@@ -1,5 +1,7 @@
 <?php
 
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
 // Define some constants
 define( "RECIPIENT_NAME", "Devxel" );
 define( "RECIPIENT_EMAIL", "info@devxel.co" );
